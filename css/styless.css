@@ -1,0 +1,15 @@
+:root {
+  --main-light-color: #ffffff;
+  --main-text-color: #000000;
+  --accent-color: #f7941e;
+  --first-section-background: #f1f1f2;
+  --footer-card-background: #fafafa;
+  --main-font: "Poppins", sans-serif;
+  --logo-font: "Homemade Apple", sans-serif;
+}
+
+image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
